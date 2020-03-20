@@ -1,0 +1,7 @@
+name: ServerSupports
+version: ${project.version}
+main: xyz.ondercrew.serversupports.ServerSupports
+load: STARTUP
+authors: [OnderCrew, PMH]
+description: This Repository is Unstable! but it works
+website: https://github.com/OnderCrew/serverSupportPlugin
